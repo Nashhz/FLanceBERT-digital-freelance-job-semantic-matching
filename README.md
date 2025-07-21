@@ -1,13 +1,14 @@
 # FLanceBERT — Digital Freelance Job Semantic Matching
 
 An intelligent freelance job matching system that uses **Sentence-BERT** to match user profiles with freelance job descriptions based on semantic similarity.
+---
+⚠️ Note: This project is still a work in progress. New features and improvements will be added and documented over time.
 
 ---
 
 ## 📌 Overview
 
 **FLanceBERT** combines state-of-the-art NLP with practical web scraping and database management to help match freelancers to relevant jobs more accurately than simple keyword searches.
-⚠️ Note: This project is still a work in progress. New features and improvements will be added and documented over time.
 ---
 
 ## 🚀 Key Features
